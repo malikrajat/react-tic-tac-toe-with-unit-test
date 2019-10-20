@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component test  snapshot renders 1`] = `
+<div
+  className="App"
+>
+  <div>
+    Winner is : 
+    
+  </div>
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>
+</div>
+`;
