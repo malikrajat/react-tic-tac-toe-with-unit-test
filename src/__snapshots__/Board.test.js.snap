@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SellColumn component test  matches the snapshot 1`] = `
+Array [
+  <div>
+    Winner is : 
+    
+  </div>,
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>,
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>,
+  <div
+    className="row"
+  >
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+    <span
+      className="sell "
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>,
+]
+`;
